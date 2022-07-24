@@ -1,0 +1,2 @@
+* Doom Emacs Config
+Temp config before switching back to full on org-mode config
